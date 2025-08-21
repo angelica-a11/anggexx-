@@ -1,8 +1,12 @@
 body { 
     color:gold;
     background-color:coral;
+    margin:0px;
 }
 
 header {
-   border:solid 2px white ;
+   border-bottom:solid 2px white ;
+   padding: 20px;
+   font-size: 32px;
+   color:crimson
 }
